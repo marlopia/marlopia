@@ -29,9 +29,9 @@ I'm currently trying to learn app develpment with languages like dart and python
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marlopia&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="marlopia stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marlopia&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="marlopia stats" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlopia&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="marlopia top langs" />
 </p>
 
@@ -40,4 +40,5 @@ I'm currently trying to learn app develpment with languages like dart and python
 ### Contact
 
 Email: [marlopiacj@gmail.com](mailto:marlopiacj@gmail.com)
+
 Alternate Github (Stuff from my courses): https://github.com/Mario-Lopez-Gonzalez
